@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">org.me.helloswiftworld</string>
+  <string name="button_label">Hello</string>
+  <string name="text_label">Swift World</string>
+</resources>

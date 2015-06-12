@@ -1,0 +1,10 @@
+/Users/yuta/Desktop/org.me.helloSwiftWorld/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Users/yuta/Desktop/org.me.helloSwiftWorld/bin/Debug/org.me.helloSwiftWorld.jar
+/Users/yuta/Desktop/org.me.helloSwiftWorld/obj/Debug/org.me.helloSwiftWorld.jar
+/Users/yuta/Desktop/org.me.helloSwiftWorld/bin/Debug/swift.jar
+/Users/yuta/Desktop/org.me.helloSwiftWorld/bin/Debug/com.remobjects.elements.rtl.jar
+/Users/yuta/Desktop/helloSwiftWorld/org.me.helloSwiftWorld/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Users/yuta/Desktop/helloSwiftWorld/org.me.helloSwiftWorld/bin/Debug/org.me.helloSwiftWorld.jar
+/Users/yuta/Desktop/helloSwiftWorld/org.me.helloSwiftWorld/obj/Debug/org.me.helloSwiftWorld.jar
+/Users/yuta/Desktop/helloSwiftWorld/org.me.helloSwiftWorld/bin/Debug/swift.jar
+/Users/yuta/Desktop/helloSwiftWorld/org.me.helloSwiftWorld/bin/Debug/com.remobjects.elements.rtl.jar
