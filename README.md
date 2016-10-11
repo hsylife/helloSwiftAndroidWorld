@@ -1,3 +1,3 @@
 # helloSwiftWorld
 
-An android app implemented in RemObjects Silver for Swift.
+An android app implemented in Swift with RemObjects Silver.
